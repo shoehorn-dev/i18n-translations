@@ -1,0 +1,21 @@
+{
+	"code.title": "Code",
+	"code.repositories_tab": "Repositories",
+	"code.pipelines_tab": "Pipelines",
+	"code.repositories_description": "Bekijk en beheer broncoderepositories van teams",
+	"code.pipelines_description": "Controleer CI/CD-workflows en builds",
+	"code.default_description": "Broncoderepositories en CI/CD-pipelines",
+	"code.search_repositories": "Zoek repositories op naam, beschrijving, taal of onderwerpen...",
+	"code.loading_repositories": "Repositories laden...",
+	"code.no_match_repos": "Geen repositories komen overeen met je filters.",
+	"code.no_repos": "Geen repositories gevonden.",
+	"code.found_repos_showing": "{total} repositories gevonden. {start} tot {end} worden weergegeven.",
+	"code.repos_showing": "{total} repositories. {start} tot {end} worden weergegeven.",
+	"code.load_repos_error": "Repositories laden mislukt",
+	"code.search_pipelines": "Zoek pipelines, repositories of branches...",
+	"code.load_pipelines_error": "Pipelines laden mislukt",
+	"code.advanced_filters": "Geavanceerde filters",
+	"code.all_providers": "Alle providers",
+	"code.my_team": "Mijn team",
+	"code.all_teams": "Alle teams"
+}

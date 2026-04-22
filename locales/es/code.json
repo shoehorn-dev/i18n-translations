@@ -1,0 +1,21 @@
+{
+	"code.title": "Código",
+	"code.repositories_tab": "Repositorios",
+	"code.pipelines_tab": "Pipelines",
+	"code.repositories_description": "Explore y gestione los repositorios de código fuente del equipo",
+	"code.pipelines_description": "Supervise los flujos de trabajo y compilaciones de CI/CD",
+	"code.default_description": "Repositorios de código fuente y pipelines de CI/CD",
+	"code.search_repositories": "Buscar repositorios por nombre, descripción, lenguaje o temas...",
+	"code.loading_repositories": "Cargando repositorios...",
+	"code.no_match_repos": "Ningún repositorio coincide con sus filtros.",
+	"code.no_repos": "No se encontraron repositorios.",
+	"code.found_repos_showing": "Se encontraron {total} repositorios. Mostrando del {start} al {end}.",
+	"code.repos_showing": "{total} repositorios. Mostrando del {start} al {end}.",
+	"code.load_repos_error": "Error al cargar los repositorios",
+	"code.search_pipelines": "Buscar pipelines, repositorios, ramas...",
+	"code.load_pipelines_error": "Error al cargar los pipelines",
+	"code.advanced_filters": "Filtros avanzados",
+	"code.all_providers": "Todos los proveedores",
+	"code.my_team": "Mi equipo",
+	"code.all_teams": "Todos los equipos"
+}

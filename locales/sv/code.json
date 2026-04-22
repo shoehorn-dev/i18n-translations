@@ -1,0 +1,21 @@
+{
+	"code.title": "Kod",
+	"code.repositories_tab": "Kodförråd",
+	"code.pipelines_tab": "Pipelines",
+	"code.repositories_description": "Bläddra bland och hantera teamens kodförråd",
+	"code.pipelines_description": "Övervaka CI/CD-arbetsflöden och byggen",
+	"code.default_description": "Kodförråd och CI/CD-pipelines",
+	"code.search_repositories": "Sök kodförråd via namn, beskrivning, språk eller ämnen...",
+	"code.loading_repositories": "Läser in kodförråd...",
+	"code.no_match_repos": "Inga kodförråd matchar dina filter.",
+	"code.no_repos": "Inga kodförråd hittades.",
+	"code.found_repos_showing": "Hittade {total} kodförråd. Visar {start} till {end}.",
+	"code.repos_showing": "{total} kodförråd. Visar {start} till {end}.",
+	"code.load_repos_error": "Kunde inte läsa in kodförråd",
+	"code.search_pipelines": "Sök pipelines, kodförråd och grenar...",
+	"code.load_pipelines_error": "Kunde inte läsa in pipelines",
+	"code.advanced_filters": "Avancerade filter",
+	"code.all_providers": "Alla leverantörer",
+	"code.my_team": "Mitt team",
+	"code.all_teams": "Alla team"
+}

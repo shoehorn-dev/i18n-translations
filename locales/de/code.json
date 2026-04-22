@@ -1,0 +1,21 @@
+{
+	"code.title": "Code",
+	"code.repositories_tab": "Repositories",
+	"code.pipelines_tab": "Pipelines",
+	"code.repositories_description": "Quellcode-Repositories des Teams durchsuchen und verwalten",
+	"code.pipelines_description": "CI/CD-Workflows und Builds überwachen",
+	"code.default_description": "Quellcode-Repositories und CI/CD-Pipelines",
+	"code.search_repositories": "Repositories nach Name, Beschreibung, Sprache oder Themen durchsuchen …",
+	"code.loading_repositories": "Repositories werden geladen…",
+	"code.no_match_repos": "Keine Repositories entsprechen Ihren Filtern.",
+	"code.no_repos": "Keine Repositories gefunden.",
+	"code.found_repos_showing": "{total} Repositories gefunden. {start} bis {end} werden angezeigt.",
+	"code.repos_showing": "{total} Repositories. Zeigt {start} bis {end}.",
+	"code.load_repos_error": "Laden der Repositories fehlgeschlagen",
+	"code.search_pipelines": "Pipelines, Repositories und Branches durchsuchen…",
+	"code.load_pipelines_error": "Pipelines konnten nicht geladen werden",
+	"code.advanced_filters": "Erweiterte Filter",
+	"code.all_providers": "Alle Anbieter",
+	"code.my_team": "Mein Team",
+	"code.all_teams": "Alle Teams"
+}

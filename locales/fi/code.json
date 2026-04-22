@@ -1,0 +1,21 @@
+{
+	"code.title": "Koodi",
+	"code.repositories_tab": "Tietovarastot",
+	"code.pipelines_tab": "Putket",
+	"code.repositories_description": "Selaa ja hallitse tiimin lähdekooditietovarastoja",
+	"code.pipelines_description": "Seuraa CI/CD-työnkulkuja ja koonteja",
+	"code.default_description": "Lähdekooditietovarastot ja CI/CD-putket",
+	"code.search_repositories": "Hae tietovarastoja nimen, kuvauksen, kielen tai aiheiden perusteella...",
+	"code.loading_repositories": "Ladataan tietovarastoja...",
+	"code.no_match_repos": "Yksikään tietovarasto ei vastaa suodattimia.",
+	"code.no_repos": "Tietovarastoja ei löytynyt.",
+	"code.found_repos_showing": "Löytyi {total} tietovarastoa. Näytetään {start}-{end}.",
+	"code.repos_showing": "{total} tietovarastoa. Näytetään {start}-{end}.",
+	"code.load_repos_error": "Tietovarastojen lataus epäonnistui",
+	"code.search_pipelines": "Hae putkia, tietovarastoja, haaroja...",
+	"code.load_pipelines_error": "Putkien lataus epäonnistui",
+	"code.advanced_filters": "Lisäsuodattimet",
+	"code.all_providers": "Kaikki tarjoajat",
+	"code.my_team": "Oma tiimi",
+	"code.all_teams": "Kaikki tiimit"
+}

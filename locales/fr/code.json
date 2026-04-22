@@ -1,0 +1,21 @@
+{
+	"code.title": "Code",
+	"code.repositories_tab": "Dépôts",
+	"code.pipelines_tab": "Pipelines",
+	"code.repositories_description": "Parcourez et gérez les dépôts de code source de l'équipe",
+	"code.pipelines_description": "Surveillez les workflows CI/CD et les builds",
+	"code.default_description": "Dépôts de code source et pipelines CI/CD",
+	"code.search_repositories": "Rechercher des dépôts par nom, description, langage ou sujet...",
+	"code.loading_repositories": "Chargement des dépôts...",
+	"code.no_match_repos": "Aucun dépôt ne correspond à vos filtres.",
+	"code.no_repos": "Aucun dépôt trouvé.",
+	"code.found_repos_showing": "{total} dépôts trouvés. Affichage de {start} à {end}.",
+	"code.repos_showing": "{total} dépôts. Affichage de {start} à {end}.",
+	"code.load_repos_error": "Échec du chargement des dépôts",
+	"code.search_pipelines": "Rechercher des pipelines, dépôts, branches...",
+	"code.load_pipelines_error": "Échec du chargement des pipelines",
+	"code.advanced_filters": "Filtres avancés",
+	"code.all_providers": "Tous les fournisseurs",
+	"code.my_team": "Mon équipe",
+	"code.all_teams": "Toutes les équipes"
+}

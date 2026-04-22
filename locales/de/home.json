@@ -1,0 +1,10 @@
+{
+	"home.team_dashboard": "Team-Dashboard",
+	"home.dashboard_description": "Ihr anpassbarer Entwicklungs-Hub.",
+	"home.done_editing": "Bearbeitung abgeschlossen",
+	"home.customize": "Anpassen",
+	"search.title": "Suchen",
+	"search.description": "Suche über Entitäten, Dokumente, Repositories, Teams und Benutzer hinweg",
+	"profile.unable_to_load": "Profil konnte nicht geladen werden",
+	"profile.try_refreshing": "Bitte versuchen Sie, die Seite zu aktualisieren, oder wenden Sie sich an den Support."
+}
