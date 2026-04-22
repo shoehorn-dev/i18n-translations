@@ -1,0 +1,21 @@
+{
+	"code.title": "Code",
+	"code.repositories_tab": "Repositories",
+	"code.pipelines_tab": "Pipelines",
+	"code.repositories_description": "Browse and manage team source code repositories",
+	"code.pipelines_description": "Monitor CI/CD workflows and builds",
+	"code.default_description": "Source code repositories and CI/CD pipelines",
+	"code.search_repositories": "Search repositories by name, description, language, or topics...",
+	"code.loading_repositories": "Loading repositories...",
+	"code.no_match_repos": "No repositories match your filters.",
+	"code.no_repos": "No repositories found.",
+	"code.found_repos_showing": "Found {total} repositories. Showing {start} to {end}.",
+	"code.repos_showing": "{total} repositories. Showing {start} to {end}.",
+	"code.load_repos_error": "Failed to load repositories",
+	"code.search_pipelines": "Search pipelines, repositories, branches...",
+	"code.load_pipelines_error": "Failed to load pipelines",
+	"code.advanced_filters": "Advanced Filters",
+	"code.all_providers": "All Providers",
+	"code.my_team": "My Team",
+	"code.all_teams": "All Teams"
+}

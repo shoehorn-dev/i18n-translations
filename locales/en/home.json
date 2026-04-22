@@ -1,0 +1,10 @@
+{
+	"home.team_dashboard": "Team Dashboard",
+	"home.dashboard_description": "Your customizable development hub.",
+	"home.done_editing": "Done Editing",
+	"home.customize": "Customize",
+	"search.title": "Search",
+	"search.description": "Search across entities, docs, repositories, teams, and users",
+	"profile.unable_to_load": "Unable to load profile",
+	"profile.try_refreshing": "Please try refreshing the page or contact support."
+}

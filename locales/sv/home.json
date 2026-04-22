@@ -1,0 +1,10 @@
+{
+	"home.team_dashboard": "Teamöversikt",
+	"home.dashboard_description": "Din anpassningsbara utvecklingshubb.",
+	"home.done_editing": "Klar med redigeringen",
+	"home.customize": "Anpassa",
+	"search.title": "Sök",
+	"search.description": "Sök i entiteter, dokumentation, kodförråd, team och användare",
+	"profile.unable_to_load": "Kunde inte läsa in profilen",
+	"profile.try_refreshing": "Försök uppdatera sidan eller kontakta supporten."
+}

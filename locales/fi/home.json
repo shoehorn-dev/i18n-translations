@@ -1,0 +1,10 @@
+{
+	"home.team_dashboard": "Tiimin koontinäkymä",
+	"home.dashboard_description": "Oma muokattava kehitystyön keskus.",
+	"home.done_editing": "Valmis",
+	"home.customize": "Mukauta",
+	"search.title": "Haku",
+	"search.description": "Hae entiteettejä, dokumentaatiota, tietovarastoja, tiimejä ja käyttäjiä",
+	"profile.unable_to_load": "Profiilia ei voitu ladata",
+	"profile.try_refreshing": "Yritä päivittää sivu tai ota yhteyttä tukeen."
+}

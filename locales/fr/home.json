@@ -1,0 +1,10 @@
+{
+	"home.team_dashboard": "Tableau de bord de l'équipe",
+	"home.dashboard_description": "Votre espace de développement personnalisable.",
+	"home.done_editing": "Terminer la modification",
+	"home.customize": "Personnaliser",
+	"search.title": "Recherche",
+	"search.description": "Recherchez parmi les entités, la documentation, les dépôts, les équipes et les utilisateurs",
+	"profile.unable_to_load": "Impossible de charger le profil",
+	"profile.try_refreshing": "Veuillez actualiser la page ou contacter le support."
+}
