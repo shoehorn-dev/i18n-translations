@@ -13,7 +13,7 @@
 	"integration.test_failure_detail": "Verbindungstest fehlgeschlagen: {error}",
 	"integration.test_failure": "Verbindungstest fehlgeschlagen",
 	"integration.delete_title": "Integration löschen",
-	"integration.delete_confirm": "Möchten Sie \"{name}\" wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+	"integration.delete_confirm": "\"{name}\" löschen? Lässt sich nicht rückgängig machen.",
 	"integration.delete_failed": "Integration konnte nicht gelöscht werden",
 	"integration.tab_overview": "Übersicht",
 	"integration.tab_events": "Ereignisse",
@@ -42,7 +42,6 @@
 	"integration.status_inactive": "Inaktiv",
 	"integration.status_error": "Fehler",
 	"integration.status_pending": "Ausstehend",
-
 	"integration.edit_title": "{name} bearbeiten",
 	"integration.save_failed_heading": "Änderungen konnten nicht gespeichert werden",
 	"integration.save_failed_fallback": "Änderungen konnten nicht gespeichert werden",
@@ -51,8 +50,7 @@
 	"integration.team_optional": "Team (Optional)",
 	"integration.team_placeholder": "z. B. platform-team",
 	"integration.saving": "Wird gespeichert...",
-	"integration.save_changes": "Änderungen speichern",
-
+	"integration.save_changes": "Speichern",
 	"integration.validation_name_required": "Name ist erforderlich",
 	"integration.validation_github_token": "GitHub-Token ist erforderlich",
 	"integration.validation_org_required": "Organisation ist erforderlich",
@@ -61,22 +59,18 @@
 	"integration.validation_access_key": "Access-Key-ID ist erforderlich",
 	"integration.validation_secret_key": "Secret-Access-Key ist erforderlich",
 	"integration.validation_kubeconfig": "Kubeconfig ist erforderlich",
-
 	"integration.github_pat_label": "Persönliches Zugriffstoken *",
 	"integration.github_organization_label": "Organisation *",
 	"integration.github_webhook_secret": "Webhook-Geheimnis (Optional)",
 	"integration.github_repositories": "Repositories (kommagetrennt)",
-
 	"integration.slack_bot_token": "Bot-Token *",
 	"integration.slack_channel_label": "Standardkanal *",
 	"integration.slack_app_token": "App-Token (Optional)",
 	"integration.slack_workspace": "Workspace (Optional)",
-
 	"integration.aws_access_key": "Access-Key-ID *",
 	"integration.aws_secret_key": "Secret-Access-Key *",
 	"integration.aws_region": "Region",
 	"integration.aws_services": "Dienste (kommagetrennt)",
-
 	"integration.k8s_kubeconfig": "Kubeconfig *",
 	"integration.k8s_namespace": "Standard-Namespace",
 	"integration.k8s_cluster_name": "Clustername (Optional)"

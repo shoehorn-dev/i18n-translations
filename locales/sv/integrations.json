@@ -13,7 +13,7 @@
 	"integration.test_failure_detail": "Anslutningstest misslyckades: {error}",
 	"integration.test_failure": "Anslutningstest misslyckades",
 	"integration.delete_title": "Ta bort integration",
-	"integration.delete_confirm": "Vill du verkligen ta bort \"{name}\"? Denna åtgärd kan inte ångras.",
+	"integration.delete_confirm": "Ta bort \"{name}\"? Går inte att ångra.",
 	"integration.delete_failed": "Kunde inte ta bort integrationen",
 	"integration.tab_overview": "Översikt",
 	"integration.tab_events": "Händelser",
@@ -42,7 +42,6 @@
 	"integration.status_inactive": "Inaktiv",
 	"integration.status_error": "Fel",
 	"integration.status_pending": "Väntar",
-
 	"integration.edit_title": "Redigera {name}",
 	"integration.save_failed_heading": "Kunde inte spara ändringar",
 	"integration.save_failed_fallback": "Kunde inte spara ändringar",
@@ -51,8 +50,7 @@
 	"integration.team_optional": "Team (valfritt)",
 	"integration.team_placeholder": "t.ex. platform-team",
 	"integration.saving": "Sparar...",
-	"integration.save_changes": "Spara ändringar",
-
+	"integration.save_changes": "Spara",
 	"integration.validation_name_required": "Namn krävs",
 	"integration.validation_github_token": "GitHub-token krävs",
 	"integration.validation_org_required": "Organisation krävs",
@@ -61,22 +59,18 @@
 	"integration.validation_access_key": "Access key ID krävs",
 	"integration.validation_secret_key": "Secret access key krävs",
 	"integration.validation_kubeconfig": "Kubeconfig krävs",
-
 	"integration.github_pat_label": "Personlig åtkomsttoken *",
 	"integration.github_organization_label": "Organisation *",
 	"integration.github_webhook_secret": "Webhook-hemlighet (valfritt)",
 	"integration.github_repositories": "Arkiv (kommaseparerade)",
-
 	"integration.slack_bot_token": "Bot-token *",
 	"integration.slack_channel_label": "Standardkanal *",
 	"integration.slack_app_token": "App-token (valfritt)",
 	"integration.slack_workspace": "Arbetsyta (valfritt)",
-
 	"integration.aws_access_key": "Access key ID *",
 	"integration.aws_secret_key": "Secret access key *",
 	"integration.aws_region": "Region",
 	"integration.aws_services": "Tjänster (kommaseparerade)",
-
 	"integration.k8s_kubeconfig": "Kubeconfig *",
 	"integration.k8s_namespace": "Standard-namespace",
 	"integration.k8s_cluster_name": "Klusternamn (valfritt)"

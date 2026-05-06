@@ -1,8 +1,8 @@
 {
 	"notify.head_title": "Benachrichtigungen - Shoehorn",
 	"notify.heading": "Benachrichtigungen",
-	"notify.summary_unread": "{unread} ungelesen \u2022 {total} insgesamt",
-	"notify.summary_all_read": "{total} Benachrichtigungen \u2022 alle gelesen",
+	"notify.summary_unread": "{unread} ungelesen • {total} insgesamt",
+	"notify.summary_all_read": "{total} Benachrichtigungen • alle gelesen",
 	"notify.summary_empty": "Posteingang für Warnungen, Freigaben und Systemereignisse",
 	"notify.mark_all_read": "Alle als gelesen markieren",
 	"notify.dismiss_all": "Alle verwerfen",

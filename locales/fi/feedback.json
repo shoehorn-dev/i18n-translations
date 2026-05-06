@@ -1,7 +1,7 @@
 {
 	"help.title": "Ohje",
 	"help.loading_version": "Ladataan versiotietoja...",
-	"help.version": "Versio {version}",
+	"help.version": "Shoehorn-versio {version}",
 	"help.built_on": "Koottu {date}",
 	"help.documentation": "Dokumentaatio",
 	"help.github_repository": "GitHub-tietovarasto",

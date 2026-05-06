@@ -1,8 +1,8 @@
 {
 	"notify.head_title": "Meldingen - Shoehorn",
 	"notify.heading": "Meldingen",
-	"notify.summary_unread": "{unread} ongelezen \u2022 {total} in totaal",
-	"notify.summary_all_read": "{total} meldingen \u2022 allemaal gelezen",
+	"notify.summary_unread": "{unread} ongelezen • {total} in totaal",
+	"notify.summary_all_read": "{total} meldingen • allemaal gelezen",
 	"notify.summary_empty": "Inbox voor waarschuwingen, goedkeuringen en systeemgebeurtenissen",
 	"notify.mark_all_read": "Alles als gelezen markeren",
 	"notify.dismiss_all": "Alles negeren",

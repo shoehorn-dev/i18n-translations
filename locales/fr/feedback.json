@@ -1,7 +1,7 @@
 {
 	"help.title": "Aide",
 	"help.loading_version": "Chargement des informations de version...",
-	"help.version": "Version {version}",
+	"help.version": "Shoehorn Version {version}",
 	"help.built_on": "Version compilée le {date}",
 	"help.documentation": "Documentation",
 	"help.github_repository": "Dépôt GitHub",
@@ -22,7 +22,7 @@
 	"feedback.subject_max_length": "L'objet doit comporter 200 caractères maximum",
 	"feedback.description_max_length": "La description doit comporter 5000 caractères maximum",
 	"feedback.error_submit": "Échec de l'envoi du commentaire",
-	"feedback.error_network": "Erreur réseau. Veuillez réessayer.",
+	"feedback.error_network": "Erreur réseau. Réessaie.",
 	"notifications.title": "Notifications",
 	"notifications.dismiss_all": "Tout masquer",
 	"notifications.mark_all_read": "Tout marquer comme lu",

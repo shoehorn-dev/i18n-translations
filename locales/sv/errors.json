@@ -1,0 +1,20 @@
+{
+	"errors.write.DEMO_READ_ONLY.title": "Demoläget är skrivskyddat",
+	"errors.write.DEMO_READ_ONLY.body": "Detta är en demo-driftsättning, så ändringar kan inte sparas.",
+	"errors.write.DEMO_READ_ONLY.hint": "Logga in på en tenant-driftsättning för att göra ändringar.",
+	"errors.write.UNAUTHORIZED.title": "Inte behörig",
+	"errors.write.UNAUTHORIZED.body": "Du har inte behörighet att göra den här ändringen.",
+	"errors.write.UNAUTHORIZED.hint": "Be en administratör om rollen du behöver, eller logga in med ett annat konto.",
+	"errors.write.NOT_FOUND.title": "Finns inte längre",
+	"errors.write.NOT_FOUND.body": "Objektet du redigerade har tagits bort eller flyttats.",
+	"errors.write.NOT_FOUND.hint": "Ladda om för att se aktuell status.",
+	"errors.write.ALREADY_EXISTS.title": "Konflikt",
+	"errors.write.ALREADY_EXISTS.body": "Något med samma identifierare finns redan.",
+	"errors.write.ALREADY_EXISTS.hint": "Välj en annan slug eller version och försök igen.",
+	"errors.write.VALIDATION_ERROR.title": "Kunde inte spara",
+	"errors.write.VALIDATION_ERROR.body": "Ett eller flera fält klarade inte valideringen.",
+	"errors.write.VALIDATION_ERROR.hint": "Åtgärda de markerade fälten och försök igen.",
+	"errors.write.unknown.title": "Något gick fel",
+	"errors.write.unknown.body": "Vi kunde inte spara dina ändringar.",
+	"errors.write.unknown.hint": "Försök igen om en stund. Om felet kvarstår, kontakta ditt plattformsteam."
+}

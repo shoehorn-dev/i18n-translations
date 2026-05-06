@@ -13,7 +13,7 @@
 	"integration.test_failure_detail": "Verbindingstest mislukt: {error}",
 	"integration.test_failure": "Verbindingstest mislukt",
 	"integration.delete_title": "Integratie verwijderen",
-	"integration.delete_confirm": "Weet u zeker dat u \"{name}\" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.",
+	"integration.delete_confirm": "\"{name}\" verwijderen? Kan niet ongedaan worden gemaakt.",
 	"integration.delete_failed": "Integratie kon niet worden verwijderd",
 	"integration.tab_overview": "Overzicht",
 	"integration.tab_events": "Gebeurtenissen",
@@ -42,7 +42,6 @@
 	"integration.status_inactive": "Inactief",
 	"integration.status_error": "Fout",
 	"integration.status_pending": "In afwachting",
-
 	"integration.edit_title": "{name} bewerken",
 	"integration.save_failed_heading": "Wijzigingen konden niet worden opgeslagen",
 	"integration.save_failed_fallback": "Wijzigingen konden niet worden opgeslagen",
@@ -51,8 +50,7 @@
 	"integration.team_optional": "Team (optioneel)",
 	"integration.team_placeholder": "bijv. platform-team",
 	"integration.saving": "Wordt opgeslagen...",
-	"integration.save_changes": "Wijzigingen opslaan",
-
+	"integration.save_changes": "Opslaan",
 	"integration.validation_name_required": "Naam is verplicht",
 	"integration.validation_github_token": "GitHub-token is verplicht",
 	"integration.validation_org_required": "Organisatie is verplicht",
@@ -61,22 +59,18 @@
 	"integration.validation_access_key": "Access key ID is verplicht",
 	"integration.validation_secret_key": "Secret access key is verplicht",
 	"integration.validation_kubeconfig": "Kubeconfig is verplicht",
-
 	"integration.github_pat_label": "Persoonlijk toegangstoken *",
 	"integration.github_organization_label": "Organisatie *",
 	"integration.github_webhook_secret": "Webhook-geheim (optioneel)",
 	"integration.github_repositories": "Repositories (komma-gescheiden)",
-
 	"integration.slack_bot_token": "Bot-token *",
 	"integration.slack_channel_label": "Standaardkanaal *",
 	"integration.slack_app_token": "App-token (optioneel)",
 	"integration.slack_workspace": "Werkruimte (optioneel)",
-
 	"integration.aws_access_key": "Access key ID *",
 	"integration.aws_secret_key": "Secret access key *",
 	"integration.aws_region": "Regio",
 	"integration.aws_services": "Services (komma-gescheiden)",
-
 	"integration.k8s_kubeconfig": "Kubeconfig *",
 	"integration.k8s_namespace": "Standaard namespace",
 	"integration.k8s_cluster_name": "Clusternaam (optioneel)"

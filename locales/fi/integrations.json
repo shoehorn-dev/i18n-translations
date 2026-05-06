@@ -13,7 +13,7 @@
 	"integration.test_failure_detail": "Yhteystesti epäonnistui: {error}",
 	"integration.test_failure": "Yhteystesti epäonnistui",
 	"integration.delete_title": "Poista integraatio",
-	"integration.delete_confirm": "Haluatko varmasti poistaa kohteen \"{name}\"? Tätä toimintoa ei voi peruuttaa.",
+	"integration.delete_confirm": "Poistetaanko \"{name}\"? Ei voi peruuttaa.",
 	"integration.delete_failed": "Integraation poisto epäonnistui",
 	"integration.tab_overview": "Yleiskatsaus",
 	"integration.tab_events": "Tapahtumat",
@@ -42,7 +42,6 @@
 	"integration.status_inactive": "Ei aktiivinen",
 	"integration.status_error": "Virhe",
 	"integration.status_pending": "Odottaa",
-
 	"integration.edit_title": "Muokkaa {name}",
 	"integration.save_failed_heading": "Muutosten tallennus epäonnistui",
 	"integration.save_failed_fallback": "Muutosten tallennus epäonnistui",
@@ -51,8 +50,7 @@
 	"integration.team_optional": "Tiimi (valinnainen)",
 	"integration.team_placeholder": "esim. platform-team",
 	"integration.saving": "Tallennetaan...",
-	"integration.save_changes": "Tallenna muutokset",
-
+	"integration.save_changes": "Tallenna",
 	"integration.validation_name_required": "Nimi on pakollinen",
 	"integration.validation_github_token": "GitHub-tunniste on pakollinen",
 	"integration.validation_org_required": "Organisaatio on pakollinen",
@@ -61,22 +59,18 @@
 	"integration.validation_access_key": "Access Key ID on pakollinen",
 	"integration.validation_secret_key": "Secret Access Key on pakollinen",
 	"integration.validation_kubeconfig": "Kubeconfig on pakollinen",
-
 	"integration.github_pat_label": "Henkilökohtainen pääsytunniste *",
 	"integration.github_organization_label": "Organisaatio *",
 	"integration.github_webhook_secret": "Webhook-salaisuus (valinnainen)",
 	"integration.github_repositories": "Repositoriot (pilkuin eroteltuna)",
-
 	"integration.slack_bot_token": "Bot-tunniste *",
 	"integration.slack_channel_label": "Oletuskanava *",
 	"integration.slack_app_token": "Sovellustunniste (valinnainen)",
 	"integration.slack_workspace": "Työtila (valinnainen)",
-
 	"integration.aws_access_key": "Access Key ID *",
 	"integration.aws_secret_key": "Secret Access Key *",
 	"integration.aws_region": "Alue",
 	"integration.aws_services": "Palvelut (pilkuin eroteltuna)",
-
 	"integration.k8s_kubeconfig": "Kubeconfig *",
 	"integration.k8s_namespace": "Oletus-namespace",
 	"integration.k8s_cluster_name": "Klusterin nimi (valinnainen)"

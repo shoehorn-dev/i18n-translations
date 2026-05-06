@@ -1,8 +1,8 @@
 {
 	"notify.head_title": "Ilmoitukset - Shoehorn",
 	"notify.heading": "Ilmoitukset",
-	"notify.summary_unread": "{unread} lukematonta \u2022 {total} yhteensä",
-	"notify.summary_all_read": "{total} ilmoitusta \u2022 kaikki luettu",
+	"notify.summary_unread": "{unread} lukematonta • {total} yhteensä",
+	"notify.summary_all_read": "{total} ilmoitusta • kaikki luettu",
 	"notify.summary_empty": "Postilaatikko hälytyksille, hyväksynnöille ja järjestelmätapahtumille",
 	"notify.mark_all_read": "Merkitse kaikki luetuiksi",
 	"notify.dismiss_all": "Hylkää kaikki",

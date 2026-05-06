@@ -1,0 +1,20 @@
+{
+	"errors.write.DEMO_READ_ONLY.title": "Demo-tila on vain luku",
+	"errors.write.DEMO_READ_ONLY.body": "Tämä on demo-asennus, joten muutoksia ei voi tallentaa.",
+	"errors.write.DEMO_READ_ONLY.hint": "Kirjaudu tenant-asennukseen tehdäksesi muutoksia.",
+	"errors.write.UNAUTHORIZED.title": "Ei oikeuksia",
+	"errors.write.UNAUTHORIZED.body": "Sinulla ei ole oikeutta tehdä tätä muutosta.",
+	"errors.write.UNAUTHORIZED.hint": "Pyydä ylläpitäjää myöntämään tarvitsemasi rooli tai kirjaudu toisella tilillä.",
+	"errors.write.NOT_FOUND.title": "Ei enää olemassa",
+	"errors.write.NOT_FOUND.body": "Muokkaamasi kohde on poistettu tai siirretty.",
+	"errors.write.NOT_FOUND.hint": "Lataa sivu uudelleen nähdäksesi nykyisen tilan.",
+	"errors.write.ALREADY_EXISTS.title": "Ristiriita",
+	"errors.write.ALREADY_EXISTS.body": "Samalla tunnisteella on jo olemassa kohde.",
+	"errors.write.ALREADY_EXISTS.hint": "Valitse eri slug tai versio ja yritä uudelleen.",
+	"errors.write.VALIDATION_ERROR.title": "Tallennus epäonnistui",
+	"errors.write.VALIDATION_ERROR.body": "Yksi tai useampi kenttä ei läpäissyt validointia.",
+	"errors.write.VALIDATION_ERROR.hint": "Korjaa korostetut kentät ja yritä uudelleen.",
+	"errors.write.unknown.title": "Jotain meni pieleen",
+	"errors.write.unknown.body": "Emme voineet tallentaa muutoksiasi.",
+	"errors.write.unknown.hint": "Yritä hetken kuluttua uudelleen. Jos virhe jatkuu, ota yhteys alustatiimiisi."
+}
