@@ -13,7 +13,7 @@
 	"integration.test_failure_detail": "Connection test failed: {error}",
 	"integration.test_failure": "Connection test failed",
 	"integration.delete_title": "Delete Integration",
-	"integration.delete_confirm": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+	"integration.delete_confirm": "Delete \"{name}\"? This can't be undone.",
 	"integration.delete_failed": "Failed to delete integration",
 	"integration.tab_overview": "Overview",
 	"integration.tab_events": "Events",
@@ -51,7 +51,7 @@
 	"integration.team_optional": "Team (Optional)",
 	"integration.team_placeholder": "e.g., platform-team",
 	"integration.saving": "Saving...",
-	"integration.save_changes": "Save Changes",
+	"integration.save_changes": "Save",
 
 	"integration.validation_name_required": "Name is required",
 	"integration.validation_github_token": "GitHub token is required",

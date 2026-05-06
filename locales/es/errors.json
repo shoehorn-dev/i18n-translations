@@ -1,0 +1,20 @@
+{
+	"errors.write.DEMO_READ_ONLY.title": "Modo demo de solo lectura",
+	"errors.write.DEMO_READ_ONLY.body": "Este es un despliegue de demostración, así que los cambios no pueden guardarse.",
+	"errors.write.DEMO_READ_ONLY.hint": "Inicia sesión en un despliegue de tenant para realizar cambios.",
+	"errors.write.UNAUTHORIZED.title": "No autorizado",
+	"errors.write.UNAUTHORIZED.body": "No tienes permiso para realizar este cambio.",
+	"errors.write.UNAUTHORIZED.hint": "Pide a un administrador que te asigne el rol necesario, o inicia sesión con otra cuenta.",
+	"errors.write.NOT_FOUND.title": "Ya no existe",
+	"errors.write.NOT_FOUND.body": "El elemento que estabas editando ha sido eliminado o movido.",
+	"errors.write.NOT_FOUND.hint": "Recarga para ver el estado actual.",
+	"errors.write.ALREADY_EXISTS.title": "Conflicto",
+	"errors.write.ALREADY_EXISTS.body": "Ya existe algo con el mismo identificador.",
+	"errors.write.ALREADY_EXISTS.hint": "Elige un slug o versión diferente e inténtalo de nuevo.",
+	"errors.write.VALIDATION_ERROR.title": "No se pudo guardar",
+	"errors.write.VALIDATION_ERROR.body": "Uno o más campos no pasaron la validación.",
+	"errors.write.VALIDATION_ERROR.hint": "Corrige los campos resaltados e inténtalo de nuevo.",
+	"errors.write.unknown.title": "Algo salió mal",
+	"errors.write.unknown.body": "No pudimos guardar tus cambios.",
+	"errors.write.unknown.hint": "Inténtalo de nuevo en un momento. Si sigue fallando, contacta a tu equipo de plataforma."
+}

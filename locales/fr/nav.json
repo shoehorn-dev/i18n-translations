@@ -1,6 +1,7 @@
 {
 	"nav.home": "Accueil",
 	"nav.catalog": "Catalogue",
+	"nav.docshub": "Docs",
 	"nav.entities": "Entités",
 	"nav.topology": "Topologie",
 	"nav.code": "Code",

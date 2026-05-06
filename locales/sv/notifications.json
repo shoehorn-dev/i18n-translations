@@ -1,8 +1,8 @@
 {
 	"notify.head_title": "Aviseringar - Shoehorn",
 	"notify.heading": "Aviseringar",
-	"notify.summary_unread": "{unread} olästa \u2022 {total} totalt",
-	"notify.summary_all_read": "{total} aviseringar \u2022 alla lästa",
+	"notify.summary_unread": "{unread} olästa • {total} totalt",
+	"notify.summary_all_read": "{total} aviseringar • alla lästa",
 	"notify.summary_empty": "Inkorg för varningar, godkännanden och systemhändelser",
 	"notify.mark_all_read": "Markera alla som lästa",
 	"notify.dismiss_all": "Avvisa alla",

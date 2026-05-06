@@ -1,8 +1,8 @@
 {
 	"notify.head_title": "Notificaciones - Shoehorn",
 	"notify.heading": "Notificaciones",
-	"notify.summary_unread": "{unread} sin leer \u2022 {total} en total",
-	"notify.summary_all_read": "{total} notificaciones \u2022 todas leídas",
+	"notify.summary_unread": "{unread} sin leer • {total} en total",
+	"notify.summary_all_read": "{total} notificaciones • todas leídas",
 	"notify.summary_empty": "Bandeja de entrada para alertas, aprobaciones y eventos del sistema",
 	"notify.mark_all_read": "Marcar todas como leídas",
 	"notify.dismiss_all": "Descartar todas",

@@ -1,7 +1,7 @@
 {
 	"help.title": "Hulp",
 	"help.loading_version": "Versie-informatie laden...",
-	"help.version": "Versie {version}",
+	"help.version": "Shoehorn-versie {version}",
 	"help.built_on": "Gebouwd op {date}",
 	"help.documentation": "Documentatie",
 	"help.github_repository": "GitHub-repository",
@@ -22,7 +22,7 @@
 	"feedback.subject_max_length": "Het onderwerp mag maximaal 200 tekens bevatten",
 	"feedback.description_max_length": "De beschrijving mag maximaal 5000 tekens bevatten",
 	"feedback.error_submit": "Feedback verzenden mislukt",
-	"feedback.error_network": "Netwerkfout. Probeer het opnieuw.",
+	"feedback.error_network": "Netwerkfout. Probeer opnieuw.",
 	"notifications.title": "Meldingen",
 	"notifications.dismiss_all": "Alles sluiten",
 	"notifications.mark_all_read": "Alles als gelezen markeren",

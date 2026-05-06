@@ -1,0 +1,20 @@
+{
+	"errors.write.DEMO_READ_ONLY.title": "Demo-modus is alleen-lezen",
+	"errors.write.DEMO_READ_ONLY.body": "Dit is een demo-deployment, wijzigingen kunnen niet worden opgeslagen.",
+	"errors.write.DEMO_READ_ONLY.hint": "Log in op een tenant-deployment om wijzigingen aan te brengen.",
+	"errors.write.UNAUTHORIZED.title": "Niet geautoriseerd",
+	"errors.write.UNAUTHORIZED.body": "Je hebt geen toestemming om deze wijziging door te voeren.",
+	"errors.write.UNAUTHORIZED.hint": "Vraag een admin om de benodigde rol, of log in met een ander account.",
+	"errors.write.NOT_FOUND.title": "Bestaat niet meer",
+	"errors.write.NOT_FOUND.body": "Het item dat je bewerkte is verwijderd of verplaatst.",
+	"errors.write.NOT_FOUND.hint": "Herlaad om de huidige status te zien.",
+	"errors.write.ALREADY_EXISTS.title": "Conflict",
+	"errors.write.ALREADY_EXISTS.body": "Er bestaat al iets met dezelfde identifier.",
+	"errors.write.ALREADY_EXISTS.hint": "Kies een andere slug of versie en probeer het opnieuw.",
+	"errors.write.VALIDATION_ERROR.title": "Kan niet opslaan",
+	"errors.write.VALIDATION_ERROR.body": "Een of meer velden zijn niet geldig.",
+	"errors.write.VALIDATION_ERROR.hint": "Corrigeer de gemarkeerde velden en probeer het opnieuw.",
+	"errors.write.unknown.title": "Er is iets misgegaan",
+	"errors.write.unknown.body": "We konden je wijzigingen niet opslaan.",
+	"errors.write.unknown.hint": "Probeer het zo opnieuw. Als het blijft mislukken, neem contact op met je platform-team."
+}

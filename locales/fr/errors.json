@@ -1,0 +1,20 @@
+{
+	"errors.write.DEMO_READ_ONLY.title": "Mode démo en lecture seule",
+	"errors.write.DEMO_READ_ONLY.body": "Il s'agit d'un déploiement de démonstration, les modifications ne peuvent pas être enregistrées.",
+	"errors.write.DEMO_READ_ONLY.hint": "Connecte-toi à un déploiement tenant pour effectuer des modifications.",
+	"errors.write.UNAUTHORIZED.title": "Non autorisé",
+	"errors.write.UNAUTHORIZED.body": "Tu n'as pas la permission d'effectuer cette modification.",
+	"errors.write.UNAUTHORIZED.hint": "Demande à un administrateur de t'attribuer le rôle requis, ou connecte-toi avec un autre compte.",
+	"errors.write.NOT_FOUND.title": "N'existe plus",
+	"errors.write.NOT_FOUND.body": "L'élément que tu modifiais a été supprimé ou déplacé.",
+	"errors.write.NOT_FOUND.hint": "Recharge pour voir l'état actuel.",
+	"errors.write.ALREADY_EXISTS.title": "Conflit",
+	"errors.write.ALREADY_EXISTS.body": "Un élément avec le même identifiant existe déjà.",
+	"errors.write.ALREADY_EXISTS.hint": "Choisis un slug ou une version différents et réessaie.",
+	"errors.write.VALIDATION_ERROR.title": "Échec de l'enregistrement",
+	"errors.write.VALIDATION_ERROR.body": "Un ou plusieurs champs n'ont pas passé la validation.",
+	"errors.write.VALIDATION_ERROR.hint": "Corrige les champs en surbrillance et réessaie.",
+	"errors.write.unknown.title": "Une erreur s'est produite",
+	"errors.write.unknown.body": "Nous n'avons pas pu enregistrer tes modifications.",
+	"errors.write.unknown.hint": "Réessaie dans un instant. Si l'erreur persiste, contacte ton équipe plateforme."
+}

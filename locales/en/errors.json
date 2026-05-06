@@ -1,0 +1,20 @@
+{
+	"errors.write.DEMO_READ_ONLY.title": "Demo mode is read-only",
+	"errors.write.DEMO_READ_ONLY.body": "This is a demo deployment, so changes can't be saved.",
+	"errors.write.DEMO_READ_ONLY.hint": "Sign in to a tenant deployment to make changes.",
+	"errors.write.UNAUTHORIZED.title": "Not authorized",
+	"errors.write.UNAUTHORIZED.body": "You don't have permission to make this change.",
+	"errors.write.UNAUTHORIZED.hint": "Ask an admin to grant the role you need, or sign in with a different account.",
+	"errors.write.NOT_FOUND.title": "No longer exists",
+	"errors.write.NOT_FOUND.body": "The item you were editing has been deleted or moved.",
+	"errors.write.NOT_FOUND.hint": "Reload to see the latest state.",
+	"errors.write.ALREADY_EXISTS.title": "Conflict",
+	"errors.write.ALREADY_EXISTS.body": "Something with the same identifier already exists.",
+	"errors.write.ALREADY_EXISTS.hint": "Choose a different slug or version and try again.",
+	"errors.write.VALIDATION_ERROR.title": "Couldn't save",
+	"errors.write.VALIDATION_ERROR.body": "Some fields are invalid.",
+	"errors.write.VALIDATION_ERROR.hint": "Fix the highlighted fields and try again.",
+	"errors.write.unknown.title": "Something went wrong",
+	"errors.write.unknown.body": "We couldn't save your changes.",
+	"errors.write.unknown.hint": "Try again in a moment. If it keeps failing, contact your platform team."
+}

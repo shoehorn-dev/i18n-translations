@@ -13,7 +13,7 @@
 	"integration.test_failure_detail": "Prueba de conexión fallida: {error}",
 	"integration.test_failure": "Prueba de conexión fallida",
 	"integration.delete_title": "Eliminar integración",
-	"integration.delete_confirm": "¿Seguro que desea eliminar \"{name}\"? Esta acción no se puede deshacer.",
+	"integration.delete_confirm": "¿Eliminar \"{name}\"? No se puede deshacer.",
 	"integration.delete_failed": "No se pudo eliminar la integración",
 	"integration.tab_overview": "Resumen",
 	"integration.tab_events": "Eventos",
@@ -42,7 +42,6 @@
 	"integration.status_inactive": "Inactiva",
 	"integration.status_error": "Error",
 	"integration.status_pending": "Pendiente",
-
 	"integration.edit_title": "Editar {name}",
 	"integration.save_failed_heading": "No se pudieron guardar los cambios",
 	"integration.save_failed_fallback": "No se pudieron guardar los cambios",
@@ -51,8 +50,7 @@
 	"integration.team_optional": "Equipo (opcional)",
 	"integration.team_placeholder": "p. ej., platform-team",
 	"integration.saving": "Guardando...",
-	"integration.save_changes": "Guardar cambios",
-
+	"integration.save_changes": "Guardar",
 	"integration.validation_name_required": "El nombre es obligatorio",
 	"integration.validation_github_token": "El token de GitHub es obligatorio",
 	"integration.validation_org_required": "La organización es obligatoria",
@@ -61,22 +59,18 @@
 	"integration.validation_access_key": "El ID de clave de acceso es obligatorio",
 	"integration.validation_secret_key": "La clave de acceso secreta es obligatoria",
 	"integration.validation_kubeconfig": "Kubeconfig es obligatorio",
-
 	"integration.github_pat_label": "Token de acceso personal *",
 	"integration.github_organization_label": "Organización *",
 	"integration.github_webhook_secret": "Secreto de webhook (opcional)",
 	"integration.github_repositories": "Repositorios (separados por comas)",
-
 	"integration.slack_bot_token": "Token del bot *",
 	"integration.slack_channel_label": "Canal predeterminado *",
 	"integration.slack_app_token": "Token de aplicación (opcional)",
 	"integration.slack_workspace": "Espacio de trabajo (opcional)",
-
 	"integration.aws_access_key": "ID de clave de acceso *",
 	"integration.aws_secret_key": "Clave de acceso secreta *",
 	"integration.aws_region": "Región",
 	"integration.aws_services": "Servicios (separados por comas)",
-
 	"integration.k8s_kubeconfig": "Kubeconfig *",
 	"integration.k8s_namespace": "Espacio de nombres predeterminado",
 	"integration.k8s_cluster_name": "Nombre del clúster (opcional)"

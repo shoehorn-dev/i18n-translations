@@ -1,7 +1,7 @@
 {
 	"help.title": "Hjälp",
 	"help.loading_version": "Läser in versionsinformation...",
-	"help.version": "Version {version}",
+	"help.version": "Shoehorn Version {version}",
 	"help.built_on": "Byggd {date}",
 	"help.documentation": "Dokumentation",
 	"help.github_repository": "GitHub-kodförråd",

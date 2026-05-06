@@ -1,7 +1,7 @@
 {
 	"help.title": "Hilfe",
 	"help.loading_version": "Versionsinformationen werden geladen …",
-	"help.version": "Version {version}",
+	"help.version": "Shoehorn Version {version}",
 	"help.built_on": "Erstellt am {date}",
 	"help.documentation": "Dokumentation",
 	"help.github_repository": "GitHub-Repository",
@@ -22,7 +22,7 @@
 	"feedback.subject_max_length": "Betreff darf maximal 200 Zeichen lang sein",
 	"feedback.description_max_length": "Die Beschreibung darf maximal 5000 Zeichen lang sein",
 	"feedback.error_submit": "Feedback konnte nicht übermittelt werden",
-	"feedback.error_network": "Netzwerkfehler. Bitte versuchen Sie es erneut.",
+	"feedback.error_network": "Netzwerkfehler. Versuch es erneut.",
 	"notifications.title": "Benachrichtigungen",
 	"notifications.dismiss_all": "Alle verwerfen",
 	"notifications.mark_all_read": "Alle als gelesen markieren",

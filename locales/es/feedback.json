@@ -1,7 +1,7 @@
 {
 	"help.title": "Ayuda",
 	"help.loading_version": "Cargando información de versión...",
-	"help.version": "Versión {version}",
+	"help.version": "Shoehorn Versión {version}",
 	"help.built_on": "Compilado el {date}",
 	"help.documentation": "Documentación",
 	"help.github_repository": "Repositorio de GitHub",
@@ -22,7 +22,7 @@
 	"feedback.subject_max_length": "El asunto debe tener 200 caracteres o menos",
 	"feedback.description_max_length": "La descripción debe tener 5000 caracteres o menos",
 	"feedback.error_submit": "No se pudieron enviar los comentarios",
-	"feedback.error_network": "Error de red. Por favor, inténtelo de nuevo.",
+	"feedback.error_network": "Error de red. Inténtalo otra vez.",
 	"notifications.title": "Notificaciones",
 	"notifications.dismiss_all": "Descartar todas",
 	"notifications.mark_all_read": "Marcar todas como leídas",

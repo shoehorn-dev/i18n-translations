@@ -1,6 +1,7 @@
 {
 	"nav.home": "Startseite",
 	"nav.catalog": "Katalog",
+	"nav.docshub": "Dokumente",
 	"nav.entities": "Entitäten",
 	"nav.topology": "Topologie",
 	"nav.code": "Code",
