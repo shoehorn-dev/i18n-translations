@@ -12,7 +12,7 @@
 	"errors.write.ALREADY_EXISTS.body": "Something with the same identifier already exists.",
 	"errors.write.ALREADY_EXISTS.hint": "Choose a different slug or version and try again.",
 	"errors.write.VALIDATION_ERROR.title": "Couldn't save",
-	"errors.write.VALIDATION_ERROR.body": "One or more fields didn't pass validation.",
+	"errors.write.VALIDATION_ERROR.body": "Some fields are invalid.",
 	"errors.write.VALIDATION_ERROR.hint": "Fix the highlighted fields and try again.",
 	"errors.write.unknown.title": "Something went wrong",
 	"errors.write.unknown.body": "We couldn't save your changes.",

@@ -6,7 +6,7 @@
 	"mcp.protocol_badge": "Protocol 2025-11-25 · Streamable HTTP · stateless",
 
 	"mcp.step1_title": "Generate a read-only token",
-	"mcp.step1_description": "This creates a Personal Access Token scoped to mcp:read. It can call every read-only MCP tool. Nothing else. You'll see the raw token once; copy it immediately.",
+	"mcp.step1_description": "Creates a Personal Access Token scoped to mcp:read. It can call every read-only MCP tool and nothing else. You'll see the raw token once; copy it immediately.",
 	"mcp.step1_button_generate": "Generate PAT for MCP",
 	"mcp.step1_button_generating": "Generating…",
 	"mcp.step1_button_regenerate": "Generate another",
